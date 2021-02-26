@@ -7,6 +7,10 @@
 <body>
 <h1>Hello World</h1>
 <p>This is a website<br>with <em>br</em> element</p>
+<<<<<<< HEAD
 <p><strong>This is strong text with new commit</strong></p>
+=======
+<p><strong>This is new strong correct text with new commit</strong></p>
+>>>>>>> new_branch_1
 </body>
 </html>
