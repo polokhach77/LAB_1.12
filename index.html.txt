@@ -11,6 +11,7 @@
   <p>This is a website<br>with <em>br</em> element</p>
   <p><strong>This is new strong correct text with new commit</strong></p>
   <p>This is <em>My first Pull Request</em> from branch new_pullrequest_1</p>
+  <p>This is <u>My first Pull Request Conflict<u>> from branch new_pullrequest_2</p>
 </body>
  
 </html>
