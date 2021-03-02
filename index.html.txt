@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+ 
 <head>
-<meta charset="utf-8">
-<title>Hello World</title>
+  <meta charset="utf-8">
+  <title>Hello World</title>
 </head>
+ 
 <body>
-<h1>Hello World</h1>
-<p>This is a website<br>with <em>br</em> element</p>
-<<<<<<< HEAD
-<p><strong>This is strong text with new commit</strong></p>
-=======
-<p><strong>This is new strong correct text with new commit</strong></p>
->>>>>>> new_branch_1
+  <h1>Hello World</h1>
+  <p>This is a website<br>with <em>br</em> element</p>
+  <p><strong>This is new strong correct text with new commit</strong></p>
+  <p>This is <em>My first Pull Request</em> from branch new_pullrequest_1</p>
 </body>
+ 
 </html>
+
